@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageServer", "ImageServer.csproj", "{3DAE1F74-EAD9-4901-A17D-0DFBFC4393D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerCore", "..\ServerCore\ServerCore.csproj", "{8D76A891-C7C6-4650-B0C5-06C7DE2E1A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkCore", "..\..\ImageClient\NetworkCore\NetworkCore.csproj", "{0888AEEA-2924-4D7A-A964-FA476EFC49DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0888AEEA-2924-4D7A-A964-FA476EFC49DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0888AEEA-2924-4D7A-A964-FA476EFC49DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0888AEEA-2924-4D7A-A964-FA476EFC49DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0888AEEA-2924-4D7A-A964-FA476EFC49DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DAE1F74-EAD9-4901-A17D-0DFBFC4393D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAE1F74-EAD9-4901-A17D-0DFBFC4393D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAE1F74-EAD9-4901-A17D-0DFBFC4393D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAE1F74-EAD9-4901-A17D-0DFBFC4393D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D76A891-C7C6-4650-B0C5-06C7DE2E1A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D76A891-C7C6-4650-B0C5-06C7DE2E1A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D76A891-C7C6-4650-B0C5-06C7DE2E1A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D76A891-C7C6-4650-B0C5-06C7DE2E1A48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
