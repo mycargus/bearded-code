@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot.csproj", "{0C2C22EF-6874-4CDF-9632-D7EFBB99626B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C2C22EF-6874-4CDF-9632-D7EFBB99626B}.Debug|x86.ActiveCfg = Debug|x86
+		{0C2C22EF-6874-4CDF-9632-D7EFBB99626B}.Debug|x86.Build.0 = Debug|x86
+		{0C2C22EF-6874-4CDF-9632-D7EFBB99626B}.Release|x86.ActiveCfg = Release|x86
+		{0C2C22EF-6874-4CDF-9632-D7EFBB99626B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
